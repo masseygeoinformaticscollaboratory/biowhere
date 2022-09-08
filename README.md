@@ -5,7 +5,7 @@ Place names data is key to successful mapping of text descriptions, and the proj
 
 If you use the above code please cite the following publication :
 
-Liao, R., Das, P. P., Jones, C. B., Aflaki, N., & Stock, K. (2022). [Predicting Distance and Direction from Text Locality Descriptions for Biological Specimen Collections]. In 15th International Conference on Spatial Information Theory (COSIT 2022). Schloss Dagstuhl-Leibniz-Zentrum für Informatik.(10.4230/LIPIcs.COSIT.2022.4)
+Liao, R., Das, P. P., Jones, C. B., Aflaki, N., & Stock, K. (2022). [Predicting Distance and Direction from Text Locality Descriptions for Biological Specimen Collections](10.4230/LIPIcs.COSIT.2022.4). In 15th International Conference on Spatial Information Theory (COSIT 2022). Schloss Dagstuhl-Leibniz-Zentrum für Informatik.
 
 
 
