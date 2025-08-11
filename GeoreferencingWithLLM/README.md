@@ -1,6 +1,6 @@
-# Fine-Tuning Mistral-7B Using QLoRA for Georeferencing Biological Collection Records
+# Fine-Tuning LLM Using QLoRA for for determining coordinates of New Zealand Biota from text
 
-This directory contains a Jupyter notebook for fine-tuning the **Mistral-7B** model using **QLoRA** to georeference biological collection records based on textual locality descriptions.
+This directory contains a Jupyter notebook for fine-tuning the **Mistral-7B** model using **QLoRA**.
 
 ---
 
