@@ -8,7 +8,7 @@ The datasets included in this directory as follows:
 | Dataset name                                                | Description                                                                                                                     |
 |-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | NZ Georefs For Biowhere Training and Testing/NZ Georefs.csv | Biological collection records with manually verified coordinates and uncertainty                                                |
-| NZ Georefs For Biowhere Training and Testing/NZ Places.csv  | New Zealand places found in GBIF records with verifies]d coordinates and uncertainty                                            |
+| NZ Georefs For Biowhere Training and Testing/NZ Places.csv  | New Zealand places found in GBIF records with manually verified coordinates and uncertainty                                            |
 | NZ Georefs For Biowhere Training and Testing/Distinct Localities (BELS).csv | Distinct values of the v_locality field from the BELS gazetteer snapshot from records that had an interpreted_country_code 'NZ' |
 | NZ Georefs For Biowhere Training and Testing/NZ Georefs w_ Protocol (BELS).csv | New Zealand localities from BELS gazetteer snapshot records that has a valid georeferencing protocol  |
 | NZ Georefs For Biowhere Training and Testing/NZ Verified Georefs (BELS).csv | New Zealand localities from BELS gazetteer snapshot records that has a acceptable verification status  |
